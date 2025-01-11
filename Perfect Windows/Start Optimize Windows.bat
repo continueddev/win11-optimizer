@@ -379,8 +379,7 @@ echo %DARK_RED%Disclaimer: We strive to ensure the highest quality and reliabili
 echo %DARK_RED%We strongly recommend maintaining a backup of your system for safety.
 echo.
 echo %BRIGHT_BLUE%Stay Connected:
-echo %WHITE%For updates, insights and more, follow us on Twitter: @Jisllos
-echo %WHITE%To contribute or report issues, visit our GitHub page: https://github.com/Jisll/windows11
+echo %WHITE%To contribute or report issues, visit our GitHub page: https://github.com/continueddev
 echo.
 pause
 goto :Main-Menu
