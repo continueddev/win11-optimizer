@@ -37,21 +37,16 @@ Transform your Windows 11 experience with our comprehensive toolkit of optimizat
 
 Get started with these simple steps:
 
-1. **Clone the Repository**
-   ```
-   git clone https://github.com/Jisll/windows11
-   ```
-
-2. **Navigate to the Script**
+1. **Navigate to the Script**
    Locate `Start Optimize Windows.bat` in the cloned repository.
 
-3. **Run the Script**
+2. **Run the Script**
    Double-click the script to begin the optimization process.
 
-4. **Backup Your Data**
+3. **Backup Your Data**
    Always create a backup before making system changes.
 
-5. **Reboot**
+4. **Reboot**
    Restart your system to apply all changes.
 
 ## 🛠 Features
